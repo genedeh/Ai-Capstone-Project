@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 opencv-python = "*"
+streamlit = "*"
+mediapipe = "==0.10.14"
+streamlit-webrtc = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.9"
